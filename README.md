@@ -37,4 +37,4 @@
 
 Sou uma pessoa esforçada, sempre em busca de aprendizado e evolução. Acredito que cada dia é uma oportunidade para crescer, aprimorar minhas habilidades e explorar novos conhecimentos. Gosto de desafios e estou sempre disposto a aprender algo novo para me tornar um profissional e uma pessoa melhor. 
 
-[![Animação da Cobra]()]
+
