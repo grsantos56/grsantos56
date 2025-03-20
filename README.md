@@ -16,10 +16,10 @@
 ## Estatísticas📈
 
 <a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=radical" locale="pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=radical&locale=pt-br"/>
 </a>
 <a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8" locale="pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&locale=pt-br"/>
 </a>
 
 ## Tecnologias que utilizo💻
