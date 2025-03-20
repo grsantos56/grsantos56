@@ -40,12 +40,13 @@
 </div>
 
 ## Sobre mim🚀
-<img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="310">
+<p>
 Sou uma pessoa dedicada e sempre em busca de aprendizado e evolução. Acredito que cada dia é uma nova oportunidade para expandir meus conhecimentos, aprimorar minhas habilidades e enfrentar desafios que me ajudem a crescer tanto pessoal quanto profissionalmente. Minha paixão pela tecnologia me motiva a explorar novas ferramentas, metodologias e boas práticas, garantindo um desenvolvimento contínuo e eficiente.
 
 Tenho conhecimentos em desenvolvimento fullstack, utilizando Spring no backend e React no frontend. Gosto de trabalhar com tecnologias modernas e escaláveis, buscando sempre escrever código limpo e bem estruturado. Além disso, estou constantemente estudando para aprofundar meus conhecimentos e me manter atualizado com as tendências do mercado.
 
 Acredito que a melhor forma de evoluir é compartilhar conhecimento e aprender com os outros. Por isso, estou sempre aberto a novas experiências, colaborações e desafios que possam me proporcionar crescimento e novas perspectivas.
-
+</p>
 
 
