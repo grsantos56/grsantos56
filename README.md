@@ -8,7 +8,7 @@
 
 ## Informações de contato📩
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielrsantos999@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-dos-santos-85452025b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrsantos9?igsh=YnRyMzdqaG4xbDNv)
 [![Linkedin](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/No-Skin7904/)
@@ -36,3 +36,5 @@
 </div><br>
 
 Sou uma pessoa esforçada, sempre em busca de aprendizado e evolução. Acredito que cada dia é uma oportunidade para crescer, aprimorar minhas habilidades e explorar novos conhecimentos. Gosto de desafios e estou sempre disposto a aprender algo novo para me tornar um profissional e uma pessoa melhor. 
+
+[![Animação da Cobra]()]
