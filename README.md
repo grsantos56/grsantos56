@@ -25,13 +25,13 @@
 ## Tecnologias que utilizo💻
 
 <div style="display:inline-block;"><br>
-  <img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="java" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
   
 </div><br>
 
