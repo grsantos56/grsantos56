@@ -15,10 +15,10 @@
 
 ## Estatísticas📈
 
-<a href="https://github.com/gabrielrsanto56/github-readme-stats">
+<a href="https://github.com/gabrielrsanto56/">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/gabrielrsanto56/convoychat">
+<a href="https://github.com/gabrielrsanto56/">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8" />
 </a>
 
