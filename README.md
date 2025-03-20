@@ -22,7 +22,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8" />
 </a>
 
-
 ## Tecnologias que utilizo💻
 
 <div style="display:inline-block;"><br>
