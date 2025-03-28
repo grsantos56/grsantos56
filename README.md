@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DD00F6&center=true&vCenter=true&random=false&width=524&lines=Olá+Mundo!+Seja+Bem-Vindo!👋" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=DD08FF&center=true&vCenter=true&random=false&width=524&lines=Olá+Mundo!+Seja+Bem-Vindo!👋" alt="Typing SVG">
   </a>
 </div> 
 
@@ -54,7 +54,7 @@
 </picture>
 
 ## Sobre mim🚀
-<img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="310">
+<img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="325">
 <p>
 Sou uma pessoa dedicada e sempre em busca de aprendizado e evolução. Acredito que cada dia é uma nova oportunidade para expandir meus conhecimentos, aprimorar minhas habilidades e enfrentar desafios que me ajudem a crescer tanto pessoal quanto profissionalmente. Minha paixão pela tecnologia me motiva a explorar novas ferramentas, metodologias e boas práticas, garantindo um desenvolvimento contínuo e eficiente.
 
