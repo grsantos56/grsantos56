@@ -58,7 +58,7 @@
 </picture>
 
 ## About Me🚀
-  <img align="left" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+  <img align="left" alt="gif" src="gif.gif" width="240">
   <div align="justify">
   <p>
   I am a dedicated person and always looking for learning and evolution. I believe that every day is a new opportunity to expand my knowledge, improve my skills and face challenges that help me grow both personally and professionally. My passion for technology motivates me to explore new tools, methodologies and best practices, ensuring continuous and efficient development.
