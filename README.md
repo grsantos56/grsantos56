@@ -58,13 +58,13 @@
 </picture>
 
 ## About Me🚀
-<img align="right" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="325">
-<p>
-I am a dedicated person and always looking for learning and evolution. I believe that every day is a new opportunity to expand my knowledge, improve my skills and face challenges that help me grow both personally and professionally. My passion for technology motivates me to explore new tools, methodologies and best practices, ensuring continuous and efficient development.
-
-I have knowledge in fullstack development, using Spring on the backend and React on the frontend. I like working with modern and scalable technologies, always seeking to write clean and well-structured code. Furthermore, I am constantly studying to deepen my knowledge and stay up to date with market trends.
-
-I believe that the best way to evolve is to share knowledge and learn from others. Therefore, I am always open to new experiences, collaborations and challenges that can provide me with growth and new perspectives.
-</p>
-
-
+  <img align="left" alt="gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndiNnQ0Z2JpbzFvZGt5NzN1aHZ6ejVkYWRneG5vZjh6eGh0dWFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+  <div align="justify">
+  <p>
+  I am a dedicated person and always looking for learning and evolution. I believe that every day is a new opportunity to expand my knowledge, improve my skills and face challenges that help me grow both personally and professionally. My passion for technology motivates me to explore new tools, methodologies and best practices, ensuring continuous and efficient development.
+  
+  I have knowledge in fullstack development, using Spring on the backend and React on the frontend. I like working with modern and scalable technologies, always seeking to write clean and well-structured code. Furthermore, I am constantly studying to deepen my knowledge and stay up to date with market trends.
+  
+  I believe that the best way to evolve is to share knowledge and learn from others. Therefore, I am always open to new experiences, collaborations and challenges that can provide me with growth and new perspectives.
+  </p>
+</div>
