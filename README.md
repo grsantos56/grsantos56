@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=DD08FF&center=true&vCenter=true&random=false&width=630&lines=Hello+World!+Welcome+to+My+Profile!👋" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=DD08FF&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+Welcome+to+My+Profile!👋" alt="Typing SVG">
   </a>
 </div> 
 
@@ -17,13 +17,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrsantos56/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrsantos56?igsh=YnRyMzdqaG4xbDNv)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/No-Skin7904/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/GabrielRS35)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894967620456038470)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabrielRSanto)
+
 
 ## Statistics📈
 
 <a href="https://github.com/gabrielrsanto56/">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=tokyonight"/>
-</a>
 <a href="https://github.com/gabrielrsanto56/">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
@@ -58,7 +60,7 @@
 </picture>
 
 ## About Me🚀
-  <img align="left" alt="gif" src="gif.gif" width="240">
+  <img align="left" alt="gif" src="gif.gif" width="280">
   <div align="justify">
   <p>
   I am a dedicated person and always looking for learning and evolution. I believe that every day is a new opportunity to expand my knowledge, improve my skills and face challenges that help me grow both personally and professionally. My passion for technology motivates me to explore new tools, methodologies and best practices, ensuring continuous and efficient development.
