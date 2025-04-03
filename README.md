@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=DD08FF&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+Welcome+to+My+Profile!👋" alt="Typing SVG">
+  <a href="https://github.com/gabrielrsanto56">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5B8CDF&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+Welcome+to+My+Profile!👋" alt="Typing SVG">
   </a>
 </div> 
 
@@ -25,9 +25,9 @@
 ## Statistics📈
 
 <a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=tokyonight&cache_seconds=86400""/>
 <a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400""/>
 </a>
 
 ## My Technologies💻
