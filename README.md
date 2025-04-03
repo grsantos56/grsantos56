@@ -25,9 +25,9 @@
 ## Statistics📈
 
 <a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=tokyonight&cache_seconds=86400""/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 <a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400""/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </a>
 
 ## My Technologies💻
@@ -45,6 +45,7 @@
   <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img align="center" width="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
   <img align="center" width="50" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img align="center" width="50" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
   <img align="center" width="50" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
   <img align="center" width="50" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">&nbsp;
   
