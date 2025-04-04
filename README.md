@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/gabrielrsanto56">
+  <a href="https://github.com/grsantos56">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5B8CDF&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+Welcome+to+My+Profile!👋" alt="Typing SVG">
   </a>
 </div> 
@@ -24,30 +24,32 @@
 
 ## Statistics📈
 
-<a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielrsanto56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<a href="https://github.com/gabrielrsanto56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielrsanto56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/gabrielrsanto56/">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <a href="https://github.com/grsantos56/">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+  </a>
+</div>
+    
 ## My Technologies💻
 
 <div style="display:inline-block;"><br>
-  <img align="center" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
-  <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
-  <img align="center" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
-  <img align="center" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
-  <img align="center" width="50" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">&nbsp;
-  <img align="center" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
-  <img align="center" width="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
-  <img align="center" width="50" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&nbsp;
-  <img align="center" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
-  <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-  <img align="center" width="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
-  <img align="center" width="50" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img align="center" width="50" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
-  <img align="center" width="50" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
-  <img align="center" width="50" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">&nbsp;
+  <img align="center" width="45" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
+  <img align="center" width="45" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" width="45" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img align="center" width="45" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
+  <img align="center" width="45" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">&nbsp;
+  <img align="center" width="45" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
+  <img align="center" width="45" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
+  <img align="center" width="45" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&nbsp;
+  <img align="center" width="45" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
+  <img align="center" width="45" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
+  <img align="center" width="45" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
+  <img align="center" width="45" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img align="center" width="45" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
+  <img align="center" width="45" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
+  <img align="center" width="45" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">&nbsp;
   
   
   
@@ -55,9 +57,9 @@
 
 #
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielrsanto56/gabrielrsanto56/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grsantos56/grsantos56/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grsantos56/grsantos56/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielrsanto56/grsantos56/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## About Me🚀
