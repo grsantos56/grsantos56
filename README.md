@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B8CDF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+My+Profile!👋;My+Name+Is+Gabriel;I+Am+a+Computer+Science+student💻;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+My+Profile!👋;My+Name+Is+Gabriel;I+Am+a+Computer+Science+Student💻;)](https://git.io/typing-svg) 
 
 #
 
@@ -19,6 +19,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894967620456038470)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabrielRSanto)
 
+## Some Projects📚
+
+- 🔍 [Análise de Acidentes em Rodovias do Piauí:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
+- 🎮 [Wikigames:](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web) Site de Descrição de Games.
+- ☕ [Estudos Java](https://github.com/grsantos56/estudos-java): Repositório Para o Aprendizado da Linguagem Java.
 
 ## Statistics📈
 
@@ -28,6 +33,11 @@
   <a href="https://github.com/grsantos56/">
     <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
   </a>
+</div>
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=grsantos56&theme=tokyonight&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
     
 ## My Technologies💻
