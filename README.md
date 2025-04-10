@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://github.com/grsantos56">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5B8CDF&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+Welcome+to+My+Profile!👋" alt="Typing SVG">
-  </a>
-</div> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B8CDF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+My+Profile!👋;My+Name+Is+Gabriel;I+Am+a+Computer+Science+student💻;)](https://git.io/typing-svg) 
 
 #
 
@@ -26,30 +24,31 @@
 
 <div align="center">
   <a href="https://github.com/gabrielrsanto56/">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
   <a href="https://github.com/grsantos56/">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+    <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </div>
     
 ## My Technologies💻
 
-<div style="display:inline-block;"><br>
-  <img align="center" width="45" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
-  <img align="center" width="45" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
-  <img align="center" width="45" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
-  <img align="center" width="45" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
-  <img align="center" width="45" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">&nbsp;
-  <img align="center" width="45" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
-  <img align="center" width="45" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
-  <img align="center" width="45" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&nbsp;
-  <img align="center" width="45" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
-  <img align="center" width="45" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-  <img align="center" width="45" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
-  <img align="center" width="45" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img align="center" width="45" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
-  <img align="center" width="45" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
-  <img align="center" width="45" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">&nbsp;
+<div style="display:inline-block;" align="center"><br>
+  <img align="center" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
+  <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img align="center" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
+  <img align="center" width="50" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">&nbsp;
+  <img align="center" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
+  <img align="center" width="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
+  <img align="center" width="50" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&nbsp;
+  <img align="center" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
+  <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
+  <img align="center" width="50" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img align="center" width="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
+  <img align="center" width="50" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img align="center" width="50" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
+  <img align="center" width="50" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
+  <img align="center" width="50" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">&nbsp;
   
   
   
@@ -73,3 +72,12 @@
   I believe that the best way to evolve is to share knowledge and learn from others. Therefore, I am always open to new experiences, collaborations and challenges that can provide me with growth and new perspectives.
   </p>
 </div>
+
+#
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{grsantos56}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B8CDF&height=120&section=footer"/>
