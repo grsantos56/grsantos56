@@ -23,7 +23,7 @@
 
 - 🔍 [Análise de Acidentes em Rodovias do Piauí:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
 - 🎮 [Wikigames:](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web) Site de Descrição de Games.
-- ☕ [Estudos Java](https://github.com/grsantos56/estudos-java): Repositório Para o Aprendizado da Linguagem Java.
+- ☕ [Estudos Java:](https://github.com/grsantos56/estudos-java) Repositório Para o Aprendizado da Linguagem Java.
 
 ## Statistics📈
 
@@ -36,7 +36,7 @@
 </div>
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=grsantos56&theme=tokyonight&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=grsantos56&theme=tokyonight&margin-w=5&margin-h=5)](https://github.com/grsantos56)
 
 </div>
     
