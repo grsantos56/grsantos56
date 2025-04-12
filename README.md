@@ -21,7 +21,7 @@
 
 ## Some Projects📚
 
-- 🔍 [Análise de Acidentes em Rodovias do Piauí:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
+- 🔍 [Análise de Acidentes:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
 - 🎮 [Wikigames:](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web) Site de Descrição de Games.
 - ☕ [Estudos Java:](https://github.com/grsantos56/estudos-java) Repositório Para o Aprendizado da Linguagem Java.
 
@@ -49,11 +49,12 @@
   <img align="center" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
   <img align="center" width="50" alt="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">&nbsp;
   <img align="center" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
+  <img align="center" width="50" alt="hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg">&nbsp;
   <img align="center" width="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
-  <img align="center" width="50" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&nbsp;
   <img align="center" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
   <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img align="center" width="50" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img align="center" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">&nbsp;
   <img align="center" width="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
   <img align="center" width="50" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
   <img align="center" width="50" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
