@@ -24,7 +24,7 @@
 - 🔍 [Análise de Acidentes:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
 - 🎮 [Wikigames:](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web) Site de Descrição de Games.
 - ☕ [Estudos Java:](https://github.com/grsantos56/estudos-java) Repositório Para o Aprendizado da Linguagem Java.
-- 🛍️ [Cadastro e Venda de Produtos:](https://github.com/grsantos56/estudos-java) Trabalho de Programação Orientada a Objetos em Java.
+- 🛍️ [Cadastro e Venda de Produtos:](https://github.com/grsantos56/ProjetoJava) Trabalho de Programação Orientada a Objetos em Java.
 
 ## Statistics📈
 
