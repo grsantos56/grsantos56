@@ -23,8 +23,9 @@
 
 - 🔍 [Análise de Acidentes:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
 - 🎮 [Wikigames:](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web) Site de Descrição de Games.
-- ☕ [Estudos Java:](https://github.com/grsantos56/estudos-java) Repositório Para o Aprendizado da Linguagem Java.
 - 🛍️ [Cadastro e Venda de Produtos:](https://github.com/grsantos56/ProjetoJava) Trabalho de Programação Orientada a Objetos em Java.
+- ☕ [Workshop:](https://github.com/grsantos56/workshop) Projeto backend simples com spring boot para um sistema de vendas .
+- 🐧 [Linux Tools:](https://github.com/grsantos56/LinuxTools) Instalador descomplicado para vários programas no Linux.
 
 ## Statistics📈
 
@@ -53,7 +54,6 @@
   <img align="center" width="50" alt="maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">&nbsp;
   <img align="center" width="50" alt="tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg">&nbsp;
   <img align="center" width="50" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;
-  <img align="center" width="50" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg">&nbsp;
   <img align="center" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
   <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img align="center" width="50" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;
