@@ -43,9 +43,9 @@
 
 <div align="center">
   <a href="https://github.com/gabrielrsanto56/">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
  <a href="https://github.com/grsantos56/">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400&hide_progress=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400&hide_progress=true"/>
 </a>
 
 </div>
