@@ -2,10 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+My+Profile!👋;My+Name+Is+Gabriel;I+Am+a+Computer+Science+Student💻;)](https://git.io/typing-svg) 
 
+## About Me🚀
+  <img align="left" alt="gif" src="gif.gif" width="280">
+  <div align="justify">
+  <p>
+  I am a dedicated person and always looking for learning and evolution. I believe that every day is a new opportunity to expand my knowledge, improve my skills and face challenges that help me grow both personally and professionally. My passion for technology motivates me to explore new tools, methodologies and best practices, ensuring continuous and efficient development.
+  
+  I have knowledge in fullstack development, using Spring on the backend and React on the frontend. I like working with modern and scalable technologies, always seeking to write clean and well-structured code. Furthermore, I am constantly studying to deepen my knowledge and stay up to date with market trends.
+  
+  I believe that the best way to evolve is to share knowledge and learn from others. Therefore, I am always open to new experiences, collaborations and challenges that can provide me with growth and new perspectives.
+  </p>
+</div>
+
+
 #
 
 - 🌱 Studying Java and Spring Boot
-- 📖 Student of the fourth period of Computer Science
 - 🎯 I intend to specialize in Spring Boot and develop full stack projects
 - ✨ Linux enthusiast
 
@@ -31,9 +43,9 @@
 
 <div align="center">
   <a href="https://github.com/gabrielrsanto56/">
-    <img height="210" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
   <a href="https://github.com/grsantos56/">
-    <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </div>
 <div align="center">
@@ -49,10 +61,7 @@
   <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
   <img align="center" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
   <img align="center" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
-  <img align="center" width="50" alt="hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg">&nbsp;
   <img align="center" width="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
-  <img align="center" width="50" alt="maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">&nbsp;
-  <img align="center" width="50" alt="tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg">&nbsp;
   <img align="center" width="50" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;
   <img align="center" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;
   <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
@@ -74,17 +83,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielrsanto56/grsantos56/output/github-contribution-grid-snake.svg">
 </picture>
 
-## About Me🚀
-  <img align="left" alt="gif" src="gif.gif" width="280">
-  <div align="justify">
-  <p>
-  I am a dedicated person and always looking for learning and evolution. I believe that every day is a new opportunity to expand my knowledge, improve my skills and face challenges that help me grow both personally and professionally. My passion for technology motivates me to explore new tools, methodologies and best practices, ensuring continuous and efficient development.
-  
-  I have knowledge in fullstack development, using Spring on the backend and React on the frontend. I like working with modern and scalable technologies, always seeking to write clean and well-structured code. Furthermore, I am constantly studying to deepen my knowledge and stay up to date with market trends.
-  
-  I believe that the best way to evolve is to share knowledge and learn from others. Therefore, I am always open to new experiences, collaborations and challenges that can provide me with growth and new perspectives.
-  </p>
-</div>
 
 #
 
