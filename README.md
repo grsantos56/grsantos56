@@ -38,6 +38,7 @@
 - 🛍️ [Cadastro e Venda de Produtos:](https://github.com/grsantos56/ProjetoJava) Trabalho de Programação Orientada a Objetos em Java.
 - ☕ [Workshop:](https://github.com/grsantos56/workshop) Projeto backend simples com spring boot para um sistema de vendas .
 - 🐧 [Linux Tools:](https://github.com/grsantos56/LinuxTools) Instalador descomplicado para vários programas no Linux.
+- 📝 [Gerenciador de tarefas:](https://github.com/grsantos56/gerenciador-de-tarefas) Gerenciador de tarefas pessoais com spring boot e react.
 
 ## Statistics📈
 
