@@ -63,6 +63,7 @@
   <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
   <img align="center" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
   <img align="center" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
+  <img align="center" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
   <img align="center" width="50" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
   <img align="center" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
   <img align="center" width="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
