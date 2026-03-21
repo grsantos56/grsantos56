@@ -1,38 +1,38 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B8CDF&height=120&section=header"/>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B8CDF&height=120&section=header"/>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+My+Profile!👋;My+Name+Is+Gabriel;I+Am+a+Computer+Science+Student💻;)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+My+Profile!;My+Name+Is+Gabriel;I+Am+a+Computer+Science+Student;)](https://git.io/typing-svg) 
 
 ## My Technologies
 
 <div style="display:inline-block;" align="center"><br>
-  <img align="center" width="50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
-  <img align="center" width="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
-  <img align="center" width="50" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
-  <img align="center" width="50" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
-  <img align="center" width="50" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
-  <img align="center" width="50" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
+  <img align="center" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
+  <img align="center" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img align="center" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
+  <img align="center" width="40" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
+  <img align="center" width="40" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
   <!---->
-  <img align="center" width="50" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
-  <img align="center" width="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
-  <img align="center" width="50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
-  <img align="center" width="50" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;
+  <img align="center" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
+  <img align="center" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
+  <img align="center" width="40" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
+  <img align="center" width="40" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;
   <!---->
-  <img align="center" width="50" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-  <img align="center" width="50" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;
-  <img align="center" width="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">&nbsp;
+  <img align="center" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
+  <img align="center" width="40" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img align="center" width="40" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">&nbsp;
   <!---->
-  <img align="center" width="50" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img align="center" width="50" alt="googleCloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">&nbsp;
+  <img align="center" width="40" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img align="center" width="40" alt="googleCloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">&nbsp;
   <!---->
-  <img align="center" width="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp; 
-  <img align="center" width="50" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
-  <img align="center" width="50" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">&nbsp;
-  <img align="center" width="50" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">&nbsp;
-  <img align="center" width="50" alt="junit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">&nbsp;
-  <img align="center" width="50" alt="swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">&nbsp;
-  <img align="center" width="50" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
+  <img align="center" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp; 
+  <img align="center" width="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
+  <img align="center" width="40" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">&nbsp;
+  <img align="center" width="40" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">&nbsp;
+  <img align="center" width="40" alt="junit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">&nbsp;
+  <img align="center" width="40" alt="swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">&nbsp;
+  <img align="center" width="40" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">&nbsp;
   <!---->
-  <img align="center" width="50" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
+  <img align="center" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
   
 </div>
 
@@ -63,7 +63,6 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 - Constantly learning and improving  
 - Focused on delivering efficient and high-quality solutions  
 
----
 
 
 <!--#
@@ -77,30 +76,64 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 
 ## Some Projects
 
--  [Análise de Acidentes:](https://github.com/grsantos56/topicos-de-big-data) Trabalho Extensionista de Big Data.
--  [Wikigames:](https://github.com/grsantos56/Trabalho-de-desenvolvimento-web) Site de Descrição de Games.
--  [Cadastro e Venda de Produtos:](https://github.com/grsantos56/ProjetoJava) Trabalho de Programação Orientada a Objetos em Java.
--  [Workshop:](https://github.com/grsantos56/workshop) Projeto backend simples com spring boot para um sistema de vendas .
--  [Linux Tools:](https://github.com/grsantos56/LinuxTools) Instalador descomplicado para vários programas no Linux.
--  [Gerenciador de tarefas:](https://github.com/grsantos56/gerenciador-de-tarefas) Gerenciador de tarefas pessoais com spring boot e react.
-
-<!--## Statistics📈
-
 <div align="center">
-  <a href="https://github.com/gabrielrsanto56/">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
- <a href="https://github.com/grsantos56/">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400&hide_progress=true"/>
-</a>
-
-</div>
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=grsantos56&theme=tokyonight&margin-w=5&margin-h=5)](https://github.com/grsantos56)
-
+  <a href="https://github.com/grsantos56/api-rest">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=api-rest&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/grsantos56/NutriSnap-APP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=NutriSnap-APP&theme=tokyonight" />
+  </a>
 </div>
 
--->
+<br/>
+
+<div align="center">
+  <a href="https://github.com/grsantos56/gerenciador-de-tarefas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=gerenciador-de-tarefas&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/grsantos56/Wireless-Car">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=Wireless-Car&theme=tokyonight" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/grsantos56/topicos-de-big-data">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=topicos-de-big-data&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/grsantos56/workshop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=workshop&theme=tokyonight" />
+  </a>
+</div>
+
+## Statistics
+
+<div align="center">
+  <a href="https://github.com/grsantos56">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=grsantos56&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+  </a>
+  <a href="https://github.com/grsantos56">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=grsantos56&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/grsantos56">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=grsantos56&theme=tokyonight"/>
+  </a>
+</div>
+
+<br/>
+
+<!--<div align="center">
+  <a href="https://github.com/grsantos56">
+    <img src="https://github-profile-trophy.vercel.app/?username=grsantos56&theme=tokyonight&column=7&margin-w=15"/>
+  </a>-->
+</div>
+
 
 
 
@@ -114,7 +147,7 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894967620456038470)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabrielRSanto)
 
-<!--#
+#
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grsantos56/grsantos56/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grsantos56/grsantos56/output/github-contribution-grid-snake-dark.svg">
@@ -126,4 +159,4 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B8CDF&height=120&section=footer"/>
 
--->
+
