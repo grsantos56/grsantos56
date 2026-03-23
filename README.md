@@ -76,11 +76,23 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 ## Some Projects
 
 <div align="center">
+  <a href="https://github.com/grsantos56/clinica-odontologica">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=clinica-odontologica&theme=tokyonight" />
+  </a>
   <a href="https://github.com/grsantos56/api-rest">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=api-rest&theme=tokyonight" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+
   <a href="https://github.com/grsantos56/NutriSnap-APP">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=NutriSnap-APP&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/grsantos56/workshop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=workshop&theme=tokyonight" />
   </a>
 </div>
 
@@ -101,8 +113,8 @@ I also have introductory knowledge in **Data Science** and **Information Securit
   <a href="https://github.com/grsantos56/topicos-de-big-data">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=topicos-de-big-data&theme=tokyonight" />
   </a>
-  <a href="https://github.com/grsantos56/workshop">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=workshop&theme=tokyonight" />
+  <a href="https://github.com/grsantos56/Trabalho-de-desenvolvimento-web">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=Trabalho-de-desenvolvimento-web&theme=tokyonight" />
   </a>
 </div>
 
