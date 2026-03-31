@@ -73,51 +73,58 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 
 
 
-## Some Projects
+##  Some Projects
 
-<div align="center">
-  <a href="https://github.com/grsantos56/clinica-odontologica">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=clinica-odontologica&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/grsantos56/api-rest">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=api-rest&theme=tokyonight" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://github.com/grsantos56/NutriSnap-APP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=NutriSnap-APP&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/grsantos56/workshop">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=workshop&theme=tokyonight" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/grsantos56/gerenciador-de-tarefas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=gerenciador-de-tarefas&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/grsantos56/Wireless-Car">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=Wireless-Car&theme=tokyonight" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/grsantos56/topicos-de-big-data">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=topicos-de-big-data&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/grsantos56/Trabalho-de-desenvolvimento-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=Trabalho-de-desenvolvimento-web&theme=tokyonight" />
-  </a>
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/grsantos56/clinica-odontologica">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=clinica-odontologica&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/grsantos56/api-rest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=api-rest&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/grsantos56/NutriSnap-APP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=NutriSnap-APP&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/grsantos56/workshop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=workshop&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/grsantos56/gerenciador-de-tarefas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=gerenciador-de-tarefas&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/grsantos56/Wireless-Car">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=Wireless-Car&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/grsantos56/topicos-de-big-data">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=topicos-de-big-data&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/grsantos56/Trabalho-de-desenvolvimento-web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grsantos56&repo=Trabalho-de-desenvolvimento-web&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 <!--## Statistics
 
 <div align="center">
