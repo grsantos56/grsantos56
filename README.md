@@ -32,9 +32,11 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 ## My Technologies
 
 <div style="display:inline-block;" align="center"><br>
-  <img align="center" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
-  <img align="center" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <!--<img align="center" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
+  <img align="center" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;-->
   <img align="center" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img align="center" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;
+  <img align="center" width="40" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">&nbsp;
   <img align="center" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
   <img align="center" width="40" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
   <img align="center" width="40" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
@@ -54,7 +56,7 @@ I also have introductory knowledge in **Data Science** and **Information Securit
   <img align="center" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp; 
   <img align="center" width="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">&nbsp;
   <img align="center" width="40" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">&nbsp;
-  <img align="center" width="40" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">&nbsp;
+  <!--<img align="center" width="40" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">&nbsp;-->
   <img align="center" width="40" alt="github actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">&nbsp;
   <img align="center" width="40" alt="junit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">&nbsp;
   <img align="center" width="40" alt="swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">&nbsp;
@@ -161,10 +163,10 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrsantos999@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrsantos56/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielrsantos56?igsh=YnRyMzdqaG4xbDNv)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/No-Skin7904/)
+<!--[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/No-Skin7904/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/GabrielRS35)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/894967620456038470)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabrielRSanto)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GabrielRSanto)-->
 
 
 <!--
