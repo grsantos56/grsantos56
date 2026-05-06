@@ -32,16 +32,15 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 ## My Technologies
 
 <div style="display:inline-block;" align="center"><br>
-  <!--<img align="center" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >&nbsp;
-  <img align="center" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;-->
+
   <img align="center" width="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
   <img align="center" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;
-  <img align="center" width="40" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">&nbsp;
+  <img align="center" width="40" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>&nbsp;
   <img align="center" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;
   <img align="center" width="40" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
-  <img align="center" width="40" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">&nbsp;
+  <img align="center" width="40" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">&nbsp;
   <!---->
-  <img align="center" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
+  <!--<img align="center" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;-->
   <img align="center" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
   <img align="center" width="40" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
   <img align="center" width="40" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;
@@ -49,6 +48,8 @@ I also have introductory knowledge in **Data Science** and **Information Securit
   <img align="center" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img align="center" width="40" alt="postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">&nbsp;
   <img align="center" width="40" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">&nbsp;
+  <img align="center" width="40" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">&nbsp;
+
   <!---->
   <img align="center" width="40" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
   <img align="center" width="40" alt="googleCloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">&nbsp;
