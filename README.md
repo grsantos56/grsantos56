@@ -6,16 +6,16 @@
 I am a **Fullstack Developer**, mainly focused on **backend development**, working with modern technologies and software engineering best practices.  
 
 ## Tech Stack  
-- **Backend:** Java | Node.js  
-- **Frontend:** React | Tailwind CSS  
-- **Databases:** MySQL | PostgreSQL | MongoDB  
-- **UI/UX:** Figma (prototyping & interface design)  
+- **Backend:** Java (Spring Boot) | Node (Express/NextJs)  
+- **Frontend:** React | Tailwind CSS | NextJs
+- **Databases:** MySQL | PostgreSQL | MongoDB | Redis | H2    
 - **Cloud Computing:** AWS | Google Cloud  
 - **Software Engineering:**  
   - Git (version control)  
   - Docker & Kubernetes (containerization)  
-  - Jenkins | Github Actions(CI/CD)  
-  - JUnit (unit testing)  
+  - Github Actions(CI/CD)  
+  - JUnit (unit testing)
+  - Jest (unit testing (frontend))   
   - Agile methodologies (Scrum)
   - Swagger (API documentation)  
   - Clean, well-structured code following best practices 
@@ -40,7 +40,7 @@ I also have introductory knowledge in **Data Science** and **Information Securit
   <img align="center" width="40" alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
   <img align="center" width="40" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">&nbsp;
   <!---->
-  <!--<img align="center" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;-->
+  <img align="center" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;
   <img align="center" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">&nbsp;
   <img align="center" width="40" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">&nbsp;
   <img align="center" width="40" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;
