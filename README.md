@@ -51,13 +51,13 @@ I also have introductory knowledge in **Data Science** and **Information Securit
   <img align="center" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
 </div>
 
-## 💻 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/grsantos56/clinica-odontologica">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=grsantos56&repo=clinica-odontologica&theme=tokyonight&show_owner=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=grsantos56&repo=SaaS-clinica-odontologica---versao-demo&theme=tokyonight&show_owner=true" />
       </a>
     </td>
     <td align="center">
@@ -91,17 +91,11 @@ I also have introductory knowledge in **Data Science** and **Information Securit
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Statistics%20and%20Embellishments&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=statistics%20and%20embellishments&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B8CDF&size=25&center=true&vCenter=true&width=1000&lines=Thanks+for+scrolling!;Always+learning+new+tech;Coffee+%2B+Code;)](https://git.io/typing-svg) 
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=SEU_UID_AQUI&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_UID_AQUI&cover_image=true&theme=novatbn&show_offline=true&background_color=1a1b26&interchange=false&bar_color=1f6feb&bar_color_cover=false" alt="Spotify" />
-  </a>
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
